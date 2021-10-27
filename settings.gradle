@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Nas_pro_volley_image_single_up_down_1'
